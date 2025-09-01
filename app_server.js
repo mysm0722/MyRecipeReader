@@ -11,7 +11,7 @@ const cheerio = require('cheerio');
 var app = express();
 var client_id = 'Bx3k9QA02ShYeDVyLQpf';
 var client_secret = 'DvfCZekAZs';
-
+// 테스트 주입
 // Node.JS Server Router
 // parameters {
 //    query: "레시피이름",
